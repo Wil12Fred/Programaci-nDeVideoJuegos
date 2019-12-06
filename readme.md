@@ -25,3 +25,6 @@ Recomendación uso Leap Motion
 # Inserción de objectos generados por reconstrucción basado en nube de puntos y reducción de ruido
 ## entrada: input\_mesh.obj
 ## salida: point\_cloud\_denoised.obj
+
+
+![Image description](https://github.com/Wil12Fred/Programaci-nDeVideoJuegos/blob/master/Screen%20Shot%202019-12-06%20at%201.58.08%20PM.png)
